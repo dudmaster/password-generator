@@ -1,2 +1,4 @@
 # password-generator
-Simple bash password generator with options/
+Simple customizable bash password generator script.
+
+
